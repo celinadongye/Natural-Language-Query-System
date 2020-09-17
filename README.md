@@ -5,19 +5,19 @@ Simple machine reading and question answering.
 
 Example of a dialogue:
 
-$$ John is a duck.
-    OK
-$$ Mary is a duck.
-    OK
-$$ John is a purple.
-    OK
-$$ Mary flies.
-    OK
-$$ John likes Mary.
-    OK
-$$ Who is a duck?
-    John  Mary
-$$ Who likes a duck who flies?
-    John
-$$ Which purple ducks fly?
-    None
+$$ John is a duck. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK <br>
+$$ Mary is a duck. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK <br>
+$$ John is a purple. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK <br>
+$$ Mary flies. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK <br>
+$$ John likes Mary. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK <br>
+$$ Who is a duck? <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK <br>
+$$ Who likes a duck who flies? <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK <br>
+$$ Which purple ducks fly? <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OK <br>
