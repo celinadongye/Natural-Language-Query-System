@@ -1,4 +1,4 @@
-# Processing Natural and Formal Languages (INFR08008)
+# Q&A System - Processing Natural and Formal Languages Coursework (INFR08008)
 
 System that reads simple facts and answers questions based on those given facts using Python and NLTK.
 Simple machine reading and question answering.
